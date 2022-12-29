@@ -1,0 +1,1 @@
+an application that cuts images from the screen, then automatically translates to Vietnamese, draws AI pictures by prompt, or automatically reads
